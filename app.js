@@ -25,3 +25,5 @@ console.log('Совместить с опечаткой');
 console.log('И еще раз');
 
 // Add some comments
+
+console.log('HEAD moved to commit 4d35261');
