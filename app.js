@@ -9,7 +9,7 @@ testing git commit -a
 );
 
 let a = 10;
-console.log(a);
+console.log(a, a, a, a);
 
 console.log('Случайная ошибка, которая пошла в коммит');
 console.log('А это исправление ошибки в коммите');
