@@ -42,6 +42,4 @@ console.log('for github');
 
 console.log('button deleted');
 
-console.log('title changed');
-
 console.log('someone add changes after I started worked on my branch');
